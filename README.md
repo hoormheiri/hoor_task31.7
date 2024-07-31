@@ -1,1 +1,3 @@
 # hoor_task31.7
+## here you will learn how to pull and run and access the webpage index.html
+### read sh file hooralmheiri/my_ubuntu to know the steps .... 
